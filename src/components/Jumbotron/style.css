@@ -1,0 +1,17 @@
+.jumbotron {
+    background-color: #28559A;
+    text-align: center;
+    min-height: 400px;
+    padding: 180px 20px;
+    padding-bottom: 140px;
+    margin-bottom: 0;
+    color: #7ED5EA;
+  }
+
+  p {
+    font-size: 1.5rem;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }

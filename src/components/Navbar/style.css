@@ -1,0 +1,19 @@
+.navbar li {
+  list-style: none;
+}
+
+.navbar {
+  font-size: 2.5rem;
+  min-height: 8rem;
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+}
+
+.bg-color {
+  background-color: #0F2557;
+}

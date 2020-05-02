@@ -1,0 +1,27 @@
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.container {
+  justify-content: center; 
+  padding-top: 50px; 
+  padding-bottom: 50px;
+  margin: 0 auto;
+}
+
+.click-image {
+  background-size: cover;
+  background-position: 50%;
+  height: 200px;
+  width: 200px;
+  margin: 5px 0px;
+  border: 3px solid #150734;
+  border-radius: 3px;
+}
+
+.card {
+  height: 100%;
+  overflow: hidden;
+  background-color: #4B9FE1;
+}
