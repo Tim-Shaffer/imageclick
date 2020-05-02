@@ -1,0 +1,62 @@
+[
+    {
+    "id": 1,
+    "image": ".assets/images/Bugs.png",
+    "isClicked": false
+    },
+    {
+    "id": 2,
+    "image": "./assets/images/Daffy.png",
+    "isClicked": false
+    },
+    {
+    "id": 3,
+    "image": "./assets/images/Elmer.png",
+    "isClicked": false
+    },
+    {
+    "id": 4,
+    "image": "./assets/images/Foghorn.png",
+    "isClicked": false
+    },
+    {
+    "id": 5,
+    "image": "./assets/images/Gossamer.png",
+    "isClicked": false
+    },
+    {
+    "id": 6,
+    "image": "./assets/images/Marvin.png",
+    "isClicked": false
+    },
+    {
+    "id": 7,
+    "image": "./assets/images/Speedy.png",
+    "isClicked": false
+    },
+    {
+    "id": 8,
+    "image": "./assets/images/Pepe_Le_Pew.png",
+    "isClicked": false
+    },
+    {
+    "id": 9,
+    "image": "./assets/images/Porky.png",
+    "isClicked": false
+    },
+    {
+    "id": 10,
+    "image": "./assets/images/Taz.png",
+    "isClicked": false
+    },
+    {
+    "id": 11,
+    "image": "./assets/images/Yosemite_Sam.gif",
+    "isClicked": false
+    },
+    {
+    "id": 12,
+    "image": "./assets/images/Roadrunner.png",
+    "isClicked": false
+    }
+    ]
